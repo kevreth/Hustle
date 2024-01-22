@@ -25,6 +25,40 @@ The items in a mission statement fall into three categories:
     * "healthy weight"
     * "spend sufficient time with family"
 
+The mission statement may take several years of introspection to finalize. It's also updated throughout your life.
+
+At first, it may be difficult to write out a mission statement. It's usually easier to begin with some easily measurable objectives that should be part of everybody's mission:
+
+=== Universal objectives
+
+- seek financial independence
+- maintain health
+- eliminate procrastination
+
+So, a minimal mission statement that would apply to nearly everyone would look like
+
+=== Model Mission Statement
+
+==== Financial
+- seek financial independence
+
+==== Physical
+- maintain health
+
+==== Mental
+
+==== Social
+
+==== Spiritual
+
+==== Bad habits
+- eliminate procrastination
+
+Just starting with those three alone can make a tremendous difference in life. If you have a significant other or have children dependent on you, then you will almost certainly wish to immediately account for them under "Social", such as:
+
+- see to the happiness, safety, and wellbeing of my significant other
+- see to the happiness, safety, and wellbeing of my children
+
 == Roles
 
 Roles are extracted observationally from the mission statement. Likewise, realizing a role may cause the mission statement to be updated to account for the newly realized role.
@@ -37,7 +71,7 @@ Roles are a numbered priority list. Each role should correspond to at least one 
 
 == Goals
 
-Goals are divided into decade, annual, month, week, day, Pomodoro set, and Pomodoro unit.
+Goals are divided into decade, annual, month, week, day, and Pomodoro unit.
 
 === Daily goals
 
