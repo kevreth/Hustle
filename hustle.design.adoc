@@ -1,0 +1,92 @@
+= Design of Hustle
+
+== Mission Statement
+
+The mission statement is a bulleted list of general principles, desires, and maxims that apply to one's life. There are generally five spheres:
+
+. physical: your body
+. mental: your thoughts, emotions, feelings, etc.
+. social: family, friends, neighbors, etc.
+. spiritual: anything that gives life meaning; does not need to include the supernatural
+. financial: net worth and net income
+. bad habits: things you wish to work on, such as substance abuse, procrastination, or overeating. These might be a negative restatement of something identified earlier in the mission statement.
+
+The mission statement is a numbered tree structure.
+
+The items in a mission statement fall into three categories:
+
+. Transitory: dictate action in a critical moment
+    * "don't be pressured into buying"
+. Guidance: dictate ways to think in general
+    * "money will be my servant not my master"
+    * "abundance mentality"
+. Targets: dictate vague goals to reach
+    * "financial independence"
+    * "healthy weight"
+    * "spend sufficient time with family"
+
+== Roles
+
+Roles are extracted observationally from the mission statement. Likewise, realizing a role may cause the mission statement to be updated to account for the newly realized role.
+
+Roles are a numbered priority list. Each role should correspond to at least one item of the Mission Statement.
+
+. Entreprenuer
+. Employee
+. Parent
+
+== Goals
+
+Goals are divided into decade, annual, month, week, day, Pomodoro set, and Pomodoro unit.
+
+=== Daily goals
+
+Daily goals are prioritized by three dimensions. The rankings themselves are in order of priority.
+
+. Importance
+. Urgency
+. Unpleasantness
+
+Daily goals are a table:
+
+|name|type|importance|urgency|unpleasantness|
+
+
+At this point, one may wonder, if one constantly has goals of importance 5 and urgency 1 overtaking goals of importance 4 and urgency 5, how will the second group ever get completed? The key is to subdivide weekly goals enough so everything that needs completion gets completion. If a high importance, low urgency goal requires 5 hours, divide it into one hour per day so the urgent tasks get proper attention.
+
+Daily goals are ranked
+
+The day is divided into six sets of activities
+. Operations, activities at your personal workspace or living area done on a regular basis throughout life
+    * personal hygiene
+    * housework
+    * planning
+    * maintenance
+. Project work, actvities at your personal workspace or living area that build towards an outcome
+    * launching a new product
+    * annual taxes (recurring projects are not operations)
+. Appointments, actvities that occur at a specific time. They may not be urgent or important but generally take precedence. Appointments may take place anywhere.
+    * meetings
+    Appointments should have any preparation time and travel time accounted for.
+. Errands, activities outside the workspace or living area that don't require presence at a specfic place at a specific time
+    * grocery shopping
+
+Finally, we make the daily plan:
+
+0700-0730 personal hygiene
+0730-0745 exercise
+0745-0800 review day's plan
+0800-0830 breakfast
+0830-1000 pomodoro
+1000-1015 daily standup
+1015-1145 pomodoro
+1145-1200 travel time
+1200-1300 lunch meeting with Casey
+1300-1315 travel time
+1315-1500 pomodoro
+1500-1600 staff meeting
+1600-1800 pomodoro
+1800-1900 dinner with family
+1900-2000 exercise
+2000-2200 family time
+
