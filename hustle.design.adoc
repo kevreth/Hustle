@@ -59,6 +59,8 @@ Just starting with those three alone can make a tremendous difference in life. I
 - see to the happiness, safety, and wellbeing of my significant other
 - see to the happiness, safety, and wellbeing of my children
 
+Starting out with your mission statement, that may be a good place to stop for now. You can always add to it later.
+
 == Roles
 
 Roles are extracted observationally from the mission statement. Likewise, realizing a role may cause the mission statement to be updated to account for the newly realized role.
@@ -86,22 +88,30 @@ Daily goals are a table:
 |name|type|importance|urgency|unpleasantness|
 
 
-At this point, one may wonder, if one constantly has goals of importance 5 and urgency 1 overtaking goals of importance 4 and urgency 5, how will the second group ever get completed? The key is to subdivide weekly goals enough so everything that needs completion gets completion. If a high importance, low urgency goal requires 5 hours, divide it into one hour per day so the urgent tasks get proper attention.
+At this point, one may wonder, if one constantly has goals of importance 5 and urgency 1 overtaking goals of importance 4 and urgency 5, how will the second group ever get completed? The key is to subdivide weekly goals enough so everything that needs completion gets completed. If a high importance, low urgency goal requires 5 hours, divide it into one hour per day so urgent tasks receive proper attention.
 
 Daily goals are ranked
 
 The day is divided into six sets of activities
 . Operations, activities at your personal workspace or living area done on a regular basis throughout life
+
     * personal hygiene
     * housework
     * planning
     * maintenance
+
 . Project work, actvities at your personal workspace or living area that build towards an outcome
+    
     * launching a new product
     * annual taxes (recurring projects are not operations)
+
 . Appointments, actvities that occur at a specific time. They may not be urgent or important but generally take precedence. Appointments may take place anywhere.
+    
     * meetings
+    * transporting children to school and scheduled activities
+
     Appointments should have any preparation time and travel time accounted for.
+
 . Errands, activities outside the workspace or living area that don't require presence at a specfic place at a specific time
     * grocery shopping
 
@@ -123,4 +133,5 @@ Finally, we make the daily plan:
 1800-1900 dinner with family
 1900-2000 exercise
 2000-2200 family time
+
 
